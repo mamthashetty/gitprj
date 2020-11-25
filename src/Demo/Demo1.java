@@ -7,6 +7,7 @@ public class Demo1 {
 	public void meth()
 	{
 		System.out.println("1");
+		System.out.println("2");
 	}
 
 }
